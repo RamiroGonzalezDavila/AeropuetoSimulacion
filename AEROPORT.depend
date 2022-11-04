@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1575853109 source:c:\users\usuario1\desktop\teccccc\trabajos\prograaobj\aeroport\main.cpp
+	<iostream>
+	"Aeropuerto.h"
+
+1575847578 source:c:\users\usuario1\desktop\teccccc\trabajos\prograaobj\aeroport\src\pasajero.cpp
+	"Pasajero.h"
+	<string>
+	<iostream>
+
+1575846180 c:\users\usuario1\desktop\teccccc\trabajos\prograaobj\aeroport\include\pasajero.h
+	<string>
+
+1575854182 source:c:\users\usuario1\desktop\teccccc\trabajos\prograaobj\aeroport\src\aeropuerto.cpp
+	"Aeropuerto.h"
+	<string>
+	<iostream>
+
+1575843302 c:\users\usuario1\desktop\teccccc\trabajos\prograaobj\aeroport\include\aeropuerto.h
+	<string>
+	"Aerolinea.h"
+
+1575850691 source:c:\users\usuario1\desktop\teccccc\trabajos\prograaobj\aeroport\src\vuelo.cpp
+	"Vuelo.h"
+	<string>
+	"Aeropuerto.h"
+	<iostream>
+
+1575850691 c:\users\usuario1\desktop\teccccc\trabajos\prograaobj\aeroport\include\vuelo.h
+	"Pasajero.h"
+	<string>
+
+1575853109 source:c:\users\usuario1\desktop\teccccc\trabajos\prograaobj\aeroport\src\aerolinea.cpp
+	"Aerolinea.h"
+	<string>
+	"Vuelo.h"
+	"Aeropuerto.h"
+	<iostream>
+
+1575853109 c:\users\usuario1\desktop\teccccc\trabajos\prograaobj\aeroport\include\aerolinea.h
+	<string>
+	"Vuelo.h"
+
